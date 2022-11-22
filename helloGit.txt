@@ -2,3 +2,4 @@ hello git maste
 hello git hot-fix
 eidt
 github ssh
+git ssh
